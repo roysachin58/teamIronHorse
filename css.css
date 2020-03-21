@@ -1,0 +1,100 @@
+#title{
+    background-color: rgb(39, 38, 38);
+}
+
+.navbar{
+    margin:0;
+}
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+h1{
+    font-family: 'Sen', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+    color: silver;
+   padding: 20% 2%;
+}
+
+.container-fluid{
+    padding: 3% 5%;
+    margin-bottom: 2%;
+}
+
+body{
+    font-family: 'Sen', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+    color: black;
+}
+
+.jacket{
+    padding-left: 15%;
+}
+
+#p1{
+    font-size: 1.5rem;
+    text-align: center;
+    color: black;
+}
+
+#p2{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+#ourriders{
+    background-color: rgb(39, 38, 38);
+
+}
+
+h3{
+    font-size: 3rem;
+    text-align: center;
+    color: silver;
+    padding: 2%;
+}
+
+.car{
+    padding: 3%;
+}
+
+
+#joinus{
+    background-color: silver;
+}
+
+.joinusclick{
+    padding-top: 7%;
+    padding-left: 7%;
+}
+
+
+.giphl{
+    text-align: center;
+}
+
+#footer{
+    background-color: black;
+}
+
+.j1{
+    margin-bottom: 0rem;
+}
+
+#end{
+    color: silver;
+    text-align: center;
+}
+
+#Aboutus{
+    color: silver;
+}
